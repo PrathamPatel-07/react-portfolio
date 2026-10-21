@@ -29,3 +29,6 @@ Open the local URL shown in your terminal (usually `http://localhost:5173`).
 
 ## Note
 Project descriptions are based on the project titles supplied and are intentionally general. Replace them with the exact features you built. The contact form uses `mailto:` and does not send messages to a server.
+
+Explanation Video Link :-
+https://drive.google.com/file/d/1Z6KFdgwzQwchUBtkrlCIig9B4pe-c-z5/view?usp=sharing
